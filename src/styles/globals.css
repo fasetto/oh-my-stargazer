@@ -14,5 +14,5 @@
 }
 
 html {
-  scrollbar-color: smooth;
+  scroll-behavior: smooth;
 }

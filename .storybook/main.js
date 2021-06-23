@@ -24,5 +24,4 @@ module.exports = {
   core: {
     builder: "webpack5",
   },
-  // presets: [path.resolve(__dirname, "./next-preset.js")],
 };

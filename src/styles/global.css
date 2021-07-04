@@ -1,3 +1,6 @@
+@import "components";
+@import "pages";
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

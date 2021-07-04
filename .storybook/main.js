@@ -10,7 +10,6 @@ module.exports = {
       options: {
         cssLoaderOptions: {
           importLoaders: 1,
-          modules: true,
         },
         postcssLoaderOptions: {
           implementation: require("postcss"),

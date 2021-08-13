@@ -1,4 +1,4 @@
-import "@/styles/globals.css";
+import "@/styles/global.css";
 import "focus-visible";
 
 import Head from "next/head";
@@ -8,7 +8,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Next JS Template</title>
+        <title>Oh My Stargazer</title>
       </Head>
 
       <Component {...pageProps} />
